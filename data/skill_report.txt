@@ -1,0 +1,4 @@
+Match Score: 61.15%
+
+Skills Found: ['python', 'machine learning', 'deep learning', 'tensorflow', 'pytorch', 'nlp', 'sql', 'computer vision', 'cnn', 'transformers', 'hugging face', 'pandas', 'numpy', 'aws', 'sagemaker', 'docker', 'kubernetes', 'mlflow', 'airflow', 'scikit-learn', 'fastapi', 'flask', 'opencv']
+Missing Skills: ['model deployment']

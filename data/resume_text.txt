@@ -1,0 +1,46 @@
+Kunal Khairnar
+Pune,Maharashtra | #kunalkhairnar2005@gmail.com | H+91-7559183891
+LinkedIn | GitHub
+Professional Summary
+ComputerEngineeringstudentwith2+yearsofdevelopmentexperience. Winnerof4national/state-levelhackathons.
+Publishedauthorof3books. Expertiseinfull-stackdevelopment,mobileapps,andAIsolutionswithproventrackrecord
+incompetitiveprogrammingandteamleadership.
+Skills
+Languages: Python,Java,JavaScript,TypeScript,Dart,C/C++,SQL,Solidity
+Technologies: React,Node.js,Flutter,MongoDB,MySQL,AndroidStudio,Docker,Linux,Git
+Education
+D.Y.PatilInstituteofEngineering,ManagementandResearch,BEComputer 2024–2027
+Engineering
+• CGPA:9.32/10.0|Coursework: DSA,OOP,DBMS,ML,OperatingSystems,ComputerNetworks
+GovernmentPolytechnic,Pune,DiplomainComputerEngineering 2021–2024
+• Percentage: 92%|Coursework: AndroidDevelopment,Full-StackDevelopment,CloudComputing
+Professional Experience
+SoftwareDevelopmentEngineeratDigictureIndia June2025–Present
+• DevelopingcomprehensiveERPsystemfor500+studentsservingeducationalinstitutions
+• Reducedsystemresponsetimeby40%throughoptimizeddatabasequeriesandcachingimplementation
+• Collaboratedwith3-memberdevelopmentteamtodeliver15+featureswithintightprojectdeadlines
+SoftwareDevelopmentInternatIANT,Pune June2023–July2023
+• Builtfull-stackTripPlannerApplicationhandling200+dailybookingswithGPStrackingintegration
+• ImplementedresponsiveUIcomponentsreducingmobileloadtimeby35%
+Projects
+MediLedger: SmartSolutionforDoctors 2025
+• CreatedaSolutionforDoctorshavingownclinictogetrodoflegacypaperprescriptionsandappointmentscheduling.
+• Handlesfinancialstats,notifyingdoctorsforappointment,AvailableonPlaystore
+• TechStack: Flutter,Firebase,GoogleDocs.
+Krushi-Sarjana: AI-PoweredFarmerMarketplace 2025
+• Developedplatformconnecting100+farmersdirectlytoconsumers,eliminating30%middlemancosts
+• ImplementedAIrecommendationsystemachieving85%accuracyincroppricepredictions
+• TechStack: Python,MachineLearning,React,MongoDB
+Vaidya: AIHospitalReceptionist 2025
+• Builtautomatedappointmentsystemreducingpatientwaittimeby60%forgovernmenthospitals
+• Processed500+dailyappointmentswith95%schedulingaccuracyusingPythonandNLP
+Second-Shelf: BookResellingPlatform 2024
+• DevelopedFluttermobileappwithAIchatbotserving200+usersand80%customersatisfaction
+• IntegratedsecurepaymentgatewaywithFirebaseauthenticationandreal-timedatabase
+Achievements
+• 1stPrize: NationalLevelTechnoSparkIdeathon&CTF,JaihindCollegeofEngineering
+• 1stPrize: HackSphereStateLevelHackathon,DYPIEMR
+• 2ndPrize: HackSprintNationalLevel36-hourHackathon,MMCOE
+• 2ndPrize: TechnophiliaStateLevelDSACompetition,PimpriChinchwadPolytechnic
+• GeeksForGeeksCampusAmbassador: Conducted10+codingworkshopsfor300+students
+• PublishedAuthor: 3books-"TheZenithParadox","Ravana","DarkNewEarth"
