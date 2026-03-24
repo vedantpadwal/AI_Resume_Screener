@@ -31,7 +31,7 @@ with st.sidebar:
     highlight skill gaps, and generate detailed AI-based insights.
     """)
     st.markdown("---")
-    st.write("👨‍💻 **Developer:** Vedant Padwal")
+    st.write("👨‍💻 **Developer:** Tanay & Samarth")
     st.write("🔗 [GitHub Repo](https://github.com/vedantpadwal/AI_Resume_Screener)")
     st.caption("Version 2.0 | Powered by Streamlit + Transformers")
 
@@ -250,7 +250,7 @@ else:
 st.markdown("---")
 st.markdown(
     "<p style='text-align: center; color: grey;'>"
-    "Built with ❤️ by <b>Vedant Padwal</b> | "
+    "Built with ❤️ by <b>Tanay & Samarth</b> | "
     "Powered by <a href='https://streamlit.io' target='_blank'>Streamlit</a>"
     "</p>",
     unsafe_allow_html=True
