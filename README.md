@@ -10,7 +10,7 @@ An AI-powered web app that analyzes resumes and job descriptions to calculate a 
 ✅ Paste a Job Description (JD)  
 ✅ Get an AI-calculated Match Score (%)  
 ✅ View Skills Found & Missing  
-✅ Visual Charts (Pie + Bar graphs)  
+✅ Visual charts (Pie + Bar graphs)  
 ✅ Download a PDF Report  
 ✅ Deployed on [Streamlit Cloud](https://streamlit.io/cloud)
 
