@@ -6,7 +6,7 @@ An AI-powered web app that analyzes resumes and job descriptions to calculate a 
 
 ## 🚀 Features
 
-✅ Ayein your Resume (PDF)  
+✅ upload your Resume (PDF)  
 ✅ Paste a Job Description (JD)  
 ✅ Get an AI-calculated Match Score (%)  
 ✅ View Skills Found & Missing  
